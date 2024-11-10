@@ -5,3 +5,12 @@ h1 {
 	list-style-type :none;
 	background-color: orange;
 }
+.navbar a{
+	text-decoration: none;
+	text-align: center;
+	color: white;
+	display: block ;
+
+
+ 
+}
