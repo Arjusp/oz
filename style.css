@@ -10,11 +10,8 @@
 	color: white;
 	display: block ;
 	padding:10px;
+	float:center;
 }
 .navbar a:hover{
 	background-color:black;
-}
-li{
-	float:left;
-	
 }
