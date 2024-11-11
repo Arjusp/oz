@@ -1,11 +1,8 @@
-p {
-	background-color:blue;
-}
+
 .navbar ul{
 	list-style-type :none;
-	padding :0px;
 	margin:0px;
-	background-color: blue;
+	background-color:yellow;
 }
 .navbar a{
 	text-decoration: none;
@@ -18,8 +15,6 @@ p {
 	background-color:black;
 }
 .navbar li{
-	float:left;
-	background-color: orange;
-	text-align: center;
+	float:lef;
 	
 }
