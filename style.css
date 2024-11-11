@@ -19,4 +19,6 @@ p {
 .navbar li{
 	float:left;
 	background-color: orange;
+	text-align: center;
+	
 }
