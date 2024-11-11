@@ -5,6 +5,7 @@ p {
 	list-style-type :none;
 	padding :0px;
 	margin:0px;
+	background-color: blue;
 }
 .navbar a{
 	text-decoration: none;
