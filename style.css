@@ -4,13 +4,18 @@ h1 {
 .navbar ul{
 	list-style-type :none;
 	background-color: orange;
+	padding :0px;
+	margin:0px;
 }
 .navbar a{
 	text-decoration: none;
 	text-align: center;
 	color: white;
 	display: block ;
-
-
- 
+}
+. navbar a:hover{
+	background-color:black;
+}
+. navbar li{
+	float:left;
 }
