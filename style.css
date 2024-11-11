@@ -1,17 +1,15 @@
-
-.navbar ul{
+ul{
 	list-style-type :none;
 	margin:0px;
 	background-color:yellow;
 }
-.navbar a{
+li{
 	text-decoration: none;
 	text-align: center;
 	color: white;
 	display: block ;
 	padding:10px;
-	float:center;
 }
-.navbar a:hover{
+li:hover{
 	background-color:black;
 }
