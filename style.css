@@ -12,6 +12,7 @@ h1 {
 	text-align: center;
 	color: white;
 	display: block ;
+	padding:10px;
 }
 .navbar a:hover{
 	background-color:black;
