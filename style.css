@@ -1,16 +1,30 @@
-nav ul{
-	list-style-type :none;
-	margin:0px;
-	background-color:yellow;
+body {
+ margin: 0px;
+ padding: 0px;
 }
-li{
-	text-decoration: none;
-	text-align: center;
-	color: white;
-	display: block ;
-	padding:10px;
-	float:left;
+ul {
+list-style-type :none;
+overflow:hidden ;
+background-color: brown;
+color: white;
+font-size: 20px;
+
+ 
 }
-li:hover{
-	background-color:black;
+li {
+float: left;
+padding: 10px;
+text-decoration: none;
+ 
+}
+li:hover {
+background-color: orange;
+
+ 
+}
+a {
+text-decoration: none;
+color: white;
+font-size: 12px;
+font-weight: bold;
 }
