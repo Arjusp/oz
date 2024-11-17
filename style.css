@@ -1,33 +1,88 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.cat {
+border-radius:40px 0;
+ 
+}
+ 
 body {
- margin: 0px;
- padding: 0px;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
 }
-ul {
-list-style-type :none;
-overflow:hidden ;
-background-color: brown;
-color: white;
-font-size: 20px;
+h1 {
+ color: white;
+}
+h3 {
+ color: yellow;
+}
 
- 
+header {
+  position: fixed;
+  width: 100%;
+  background: #333;
+  color: #fff;
+  padding:1.1rem;
 }
-li {
-float: left;
-padding: 10px;
-text-decoration: none;
- 
-}
-li:hover {
-background-color: orange;
 
+.nav-bar {
+  list-style: none;
+  display: flex;
+  justify-content:center;
+}
+
+.nav-bar li {
+  margin: 0 15px;
+}
+
+.nav-bar a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 11px;
+  transition: color 0.3s ease;
+  font-weight: bold;
+}
+
+.nav-bar a:hover {
+  color: #00bcd4;
+}
+
+/* Sections */
+section {
+  padding: 60px 100px;
+  text-align: center;
+  
+}
+
+#home {
+background-image:url("https://mimo.app/i/earth.png") ;
+ background-size: 100%;
+ background-repeat:no-repeat;
+ background-attachment: fixed;
+}
+
+#about {
+  background: #e2e2e2;
+  padding-top: 10px;
+}
+
+#portfolio {
+  background: #d4d4d4;
+}
+
+#contact {
+  background-image:url("https://mimo.app/i/earth.png") ;
+background-repeat:no-repeat;
+
+}
+.qua {
+ font-weight: bold;
+}
+.skill {
+list-style: none;
  
-}
-a {
-text-decoration: none;
-color: white;
-font-size: 12px;
-font-weight: bold;
-}
-body{
-background-image: url("Robo.jpg");
 }
