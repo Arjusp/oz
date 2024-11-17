@@ -67,28 +67,32 @@ text-align: left;
 }
 
 #home {
-background-image:url("Robo.jpg") ;
+ background-image:url("Robo.jpg") ;
  background-size: 100%;
  background-repeat:no-repeat;
  background-attachment: fixed;
 }
 
 #about {
-  background: #e2e2e2;
+  background-image:url("moon.jpg") ;
+  background-size: 100%;
+  background-repeat:no-repeat;
   padding-top: 10px;
 }
 
 #portfolio {
-  background: #d4d4d4;
+  
 }
 
 #contact {
-  background-image:url("moon.jpg") ;
-background-repeat:no-repeat;
+  background-image:url("ai.jpg") ;
+  background-size: 100%;
+  background-repeat:no-repeat;
 
 }
 .qua {
  font-weight: bold;
+ font-size:20px;
 }
 .skill {
 list-style: none;
