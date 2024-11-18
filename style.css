@@ -76,15 +76,9 @@ text-align: left;
 #about {
   background:#996600;
 }
-}
 
 #portfolio {
   background:#664400;
-}
-}
-
-#contact {
-  background:#332200;
 }
 .qua {
  font-weight: bold;
@@ -99,6 +93,7 @@ list-style: none;
 }
 #contact {
   text-align: center;
+  background:#332200;
 
  
 }
