@@ -77,10 +77,12 @@ text-align: left;
 
 #about {
   background:#996600;
+  padding-top: 10px;
 }
 
 #portfolio {
   background:#664400;
+  padding-top: 10px;
 }
 .qua {
  font-weight: bold;
@@ -91,11 +93,16 @@ list-style: none;
  
 }
 .plink{
+  color: white;
  
 }
 #contact {
   text-align: center;
   background:#332200;
-
- 
+  padding-top: 60px;
+}
+footer {
+background: black;
+color:white;
+text-align: center;
 }
